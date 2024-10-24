@@ -59,8 +59,8 @@ function contador_ofertas_shortcode($atts)
             }
         </style>
         <div id="ofertas-contador">
-            <p class="contador-label">La oferta termina en:</p>
-            <span id="temporizador"><?php echo "$dias días $horas:$minutos:$segundos"; ?></span>
+            <p class="contador-label">¡¡No te quedes sin tu descuento especial ⏰❤️‍🔥!!</p>
+            <span id="temporizador"><?php echo "$dias días $horas:$minutos:$segundos "; ?></span>
         </div>
         <script>
             function agregarCero(num) {
