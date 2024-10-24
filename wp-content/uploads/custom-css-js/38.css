@@ -1,0 +1,24 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+body {
+    padding: 0 20px 20px 20px; 
+}
+
+header {
+    padding: 20px;
+}
+
+footer {
+    padding: 0; 
+    background-color: #000; 
+    color: #fff; 
+}
+.wp-image-118 {
+	padding: 10px;
+}
+.wp-image-111 {
+	 margin-right: 10px;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
